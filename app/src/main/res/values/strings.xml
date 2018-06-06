@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Books App</string>
+    <string name="description">Description</string>
+    <string name="publisher">Published by</string>
+    <string name="query_hint">Enter a book name</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genre</string>
+    <string name="no_internet">No connection found</string>
+    <string name="no_data">No data found try searching something else</string>
+</resources>
