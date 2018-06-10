@@ -1,5 +1,5 @@
 # BooksApp
-BooksApp is a android application that lets user to search and get information of a book.
+BooksApp is a android application that lets user to search and get information of a book. BooksApp uses Google’s books API to provide user information like Rating, Author, Description, Date Published, Image for a particular book user searched for.
 
 ## Demo APK : https://drive.google.com/open?id=1_XbNQ956EmZU0q0KGJQUuJWBYugEgFFl
 
